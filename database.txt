@@ -1,0 +1,8 @@
+email                subject                message
+sanathkumarsandy@gmail.com,fwf3f,eww
+,,
+ibmadiga@gmail.com,adiga,adiga
+ibmadiga@gmail.com,adiga,adiga
+ibmadiga@gmail.com,adiga,hello
+ibmadiga@gmail.com,adiga,aaaaaaaa
+
